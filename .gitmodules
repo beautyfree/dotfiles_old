@@ -1,0 +1,32 @@
+[submodule "zsh/.zsh/oh-my-zsh"]
+	path = zsh/.zsh/oh-my-zsh
+	url = git://github.com/robbyrussell/oh-my-zsh.git
+	
+[submodule "tmux/.tmux/plugins/tmux-copycat"]
+	path = tmux/.tmux/plugins/tmux-copycat
+	url = git://github.com/tmux-plugins/tmux-copycat.git
+[submodule "tmux/.tmux/plugins/tmux-scroll-copy-mode"]
+	path = tmux/.tmux/plugins/tmux-scroll-copy-mode
+	url = git://github.com/NHDaly/tmux-scroll-copy-mode.git
+[submodule "tmux/.tmux/plugins/tmux-sessionist"]
+	path = tmux/.tmux/plugins/tmux-sessionist
+	url = git://github.com/tmux-plugins/tmux-sessionist.git
+[submodule "tmux/.tmux/plugins/tmux-yank"]
+	path = tmux/.tmux/plugins/tmux-yank
+	url = git://github.com/tmux-plugins/tmux-yank.git
+[submodule "tmux/.tmux/plugins/tpm"]
+	path = tmux/.tmux/plugins/tpm
+	url = git://github.com/tmux-plugins/tpm.git
+	
+[submodule "vim/.vim/bundle/nerdtree"]
+	path = vim/.vim/bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "vim/.vim/bundle/syntastic"]
+	path = vim/.vim/bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
+[submodule "vim/.vim/bundle/vim-airline"]
+	path = vim/.vim/bundle/vim-airline
+	url = git://github.com/vim-airline/vim-airline.git
+[submodule "vim/.vim/bundle/vim-stylus"]
+	path = vim/.vim/bundle/vim-stylus
+	url = git://github.com/wavded/vim-stylus.git
