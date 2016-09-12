@@ -30,3 +30,6 @@
 [submodule "vim/.vim/bundle/vim-stylus"]
 	path = vim/.vim/bundle/vim-stylus
 	url = git://github.com/wavded/vim-stylus.git
+[submodule "vim/.vim/bundle/vim-airline-themes"]
+	path = vim/.vim/bundle/vim-airline-themes
+	url = git://github.com/vim-airline/vim-airline-themes.git
